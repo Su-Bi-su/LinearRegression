@@ -1,9 +1,13 @@
 # LinearRegression
 
-Net:
+## Net:
 -> Linear Regression using PyTorch framework.
--> Data is extracted from sklearn
-Net_CustomData:
+
+-> Data is extracted from sklearn.
+
+## Net_CustomData:
 -> Linear Regression using PyTorch framework.
--> small custom data
+
+-> small custom data.
+
 
