@@ -2,8 +2,8 @@ import torch
 import matplotlib.pyplot as plt
 import torch.nn as nn
 import torch.optim as optim
-import numpy as np
 
+# Custom dataset
 x = torch.tensor([[1.0], [2.0], [3.0], [4.0], [5.0]])
 y = torch.tensor([[2.0], [4.0], [6.0], [8.0], [10.0]])
 
